@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hsla(0, 2%, 81%, 0.865);
+}
+h1{
+    font-family: sans-serif;
+    font-size: 4rem;
+    color: hsl(0, 0%, 19%); 
+}
+#watch-container{   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid;
+    border-radius: 50px;  
+    padding: 30px;
+    background-color: white; 
+}
+#watch{
+    font-size: 4.7rem;
+    font-family: monospace;
+    font-weight: bold;
+    color:hsl(0, 1%, 30%);
+    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.75);
+    margin-bottom: 25px;
+}
+#controls button{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.5sease;
+}
+#start{
+    background-color: hsl(97, 86%, 49%);
+}
+#start:hover{
+    background-color: hsl(97, 86%, 70%);
+}
+
+#stop{
+    background-color: hsl(0, 82%, 50%);
+}
+#stop:hover{
+    background-color: hsl(0, 82%, 70%);
+}
+
+#reset{
+    background-color: hsl(201, 92%, 49%);
+}
+#reset:hover{
+    background-color: hsl(201, 92%, 70%);
+}
+

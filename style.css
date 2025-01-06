@@ -1,0 +1,72 @@
+/* #myBox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+#myButton{
+    font-size: 3rem;
+} */
+/* body{
+    margin: 0;
+}
+#myBox{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+} */
+
+
+/* #myButton{
+    font-size: 2rem;
+} */
+
+/* .myButtons{
+    font-size: 4rem;
+    margin: 10px;
+    border:none;
+    border-radius: 5px;
+    padding: 10px 15px;        
+    background-color: hsla(221, 92%, 47%, 0.514);
+    color: white;
+    cursor: pointer;
+}
+ */
+/* #myH1{
+    font-size: 5rem;
+} */
+/* .myButtons{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.enabled{
+    background-color: hsl(203, 88%, 45%);
+    color: white;
+}   
+.hover{
+    box-shadow: 0px 0px 10px hsl(0, 0%, 20%);   
+    font-weight: bold; 
+}
+.disabled{
+    background-color: hsl(0, 0%, 60%);
+    color: hsl(0, 2%, 70%);
+
+    } */
+
+
+
